@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="NRG" generator-info-url="http://www.xmltv.org/">
+    <channel id="Viaplay">
+        <display-name lang="is">Viaplay</display-name>
+        <icon src="https://img.icons8.com/color/600/000000/viaplay.png" />
+        <url>https://viaplay.is</url>
+    </channel>
+</tv>
